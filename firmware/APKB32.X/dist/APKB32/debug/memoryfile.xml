@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/APKB32/debug/APKB32.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>263312</length>                 
+      <used>23828</used>                     
+      <free>239484</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16896</length>                 
+      <used>2060</used>                     
+      <free>14836</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
